@@ -1355,8 +1355,8 @@
     }(window.cookieconsent || {});
   var bg = document.getElementById("background");
   null !== bg && particleground(bg, {
-    dotColor: "#e1e1e1",
-    lineColor: "#e1e1e1",
+    dotColor: "#DDDDDD",
+    lineColor: "#DDDDDD",
     particleRadius: 4,
     lineWidth: .4,
     density: 1e4,
